@@ -1,3 +1,13 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+coverage.out
+vendor
+tmp
+.DS_Store
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
@@ -13,3 +23,4 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
